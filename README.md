@@ -64,30 +64,6 @@ Application Support Engineer | SQL | Linux | Automation | Production Support
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmitRai-TechOps&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitRai-TechOps&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitRai-TechOps&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmitRai-TechOps&theme=tokyonight&row=1&column=6" />
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -119,16 +95,6 @@ I enjoy solving production issues more than creating them 😄
 - Docker & Containerization
 - Monitoring & Alerting
 - Infrastructure Automation
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitRai-TechOps&theme=tokyo-night" />
-
-</p>
 
 ---
 
