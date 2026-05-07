@@ -19,7 +19,7 @@ Automation and utility scripts for application support and server management.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,docker,mysql,powershell,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,mssql,oracle,mysql,jboss,apache,tomcat,redis" />
 
 </p>
 
@@ -62,7 +62,7 @@ Automation and utility scripts for application support and server management.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN)(https://www.linkedin.com/in/amitbablu-rai/)
+LinkedIn<wa-icon name="linkedin" family="brands"></wa-icon>: https://www.linkedin.com/in/amitbablu-rai/
 
 ---
 
