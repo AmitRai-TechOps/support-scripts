@@ -1,39 +1,71 @@
 # support-scripts
 Automation and utility scripts for application support and server management.
+<h1 align="center">Hi 👋, I'm Amit Rai</h1>
+<h3 align="center">Application Support Engineer | SQL | Linux | Automation | Production Support</h3>
 
-# Hi, I'm Amit Rai 👋
+---
 
-Application Support Engineer with experience in:
-- SQL Server
-- Linux Administration
-- Jenkins
-- Tomcat
-- JBoss
-- Redis
+## 👨‍💻 About Me
+
+- 🔭 Currently working as an Application Support Engineer
+- 🌱 Learning DevOps & Automation
+- 💻 Working with SQL, Linux, Jenkins, Tomcat & JBoss
+- ⚡ Passionate about troubleshooting and production support
+- 📍 Mumbai, India
+
+---
+
+## 🚀 Technologies & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,docker,mysql,powershell,bash,vscode" />
+
+</p>
+
+---
+
+## 🛠️ Areas of Expertise
+
 - Production Support
 - Deployment Activities
-- Troubleshooting
+- SQL Troubleshooting
+- Server Monitoring
+- Jenkins Build Management
+- Linux Administration
+- Tomcat & JBoss Support
 - Automation Scripts
+- Incident Handling
+- RCA Documentation
 
-# Technologies & Tools
-- SQL
-- PowerShell
-- Batch Scripting
-- Git & GitHub
-- Linux
-- Windows Server
-- Jenkins
-- Apache Tomcat
-- JBoss
-- Redis
+---
 
-# Current Focus
-- Automation
-- DevOps Learning
-- Monitoring & Support
-- CI/CD
-- Production Issue Handling
+## 📂 Featured Repositories
 
-# Connect With Me
-LinkedIn:
-https://www.linkedin.com/in/rai-amit-586a94234
+- 📌 SQL Support Queries
+- 📌 Deployment Checklists
+- 📌 Linux Commands & Notes
+- 📌 Production Support Guide
+- 📌 Server Health Monitoring Scripts
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN)(https://www.linkedin.com/in/amitbablu-rai/)
+
+---
+
+## ☕ Fun Fact
+
+I enjoy solving production issues more than creating them 😄
