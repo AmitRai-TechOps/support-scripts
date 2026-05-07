@@ -62,7 +62,8 @@ Automation and utility scripts for application support and server management.
 
 ## 🌐 Connect With Me
 
-LinkedIn<wa-icon name="linkedin" family="brands"></wa-icon>: https://www.linkedin.com/in/amitbablu-rai/
+LinkedIn: https://www.linkedin.com/in/amitbablu-rai/
+Gmail: raiamit2410@gmail.com
 
 ---
 
