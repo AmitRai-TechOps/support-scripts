@@ -29,7 +29,7 @@ Application Support Engineer | SQL | Linux | Automation | Production Support
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,mysql,redis,bash,powershell,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,mysql,redis" />
 
 </p>
 
